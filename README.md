@@ -25,7 +25,7 @@ Tested on Devices: The app has been tested on various devices, including Pixel 5
 
 Installation
 Clone the repository:
-1- Clone the repositary: git clone "https://github.com/yourusername/stockviewapp.git"
+1- Clone the repositary: git clone "https://github.com/sandhyapaliwal/stockviewapp.git"
 3- Open the project in Android Studio.
 4- Sync the Gradle files to download the required dependencies.
 5- Run the app on an Android device or emulator. 
